@@ -1,6 +1,6 @@
 ## Portfolio
 
-In the project directory, you can run:
+Short bio page with links to various projects
 
 ### Projects
 
